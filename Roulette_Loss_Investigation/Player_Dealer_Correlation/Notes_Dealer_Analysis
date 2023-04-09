@@ -1,0 +1,19 @@
+I used
+awk '-F ' '{print $1, $2, $5, $6}'  file_name.txt | awk '{printf date ;print}
+to isolate the times and names of the roulette Dealers and add a date they were working to the start of each line
+
+03/10 02:00:00 PM Billy Jones
+03/10 08:00:00 AM Billy Jones
+03/10 11:00:00 PM Billy Jones
+03/10 08:00:00 PM Billy Jones
+03/10 05:00:00 AM Billy Jones
+03/12 11:00:00 PM Billy Jones
+03/12 08:00:00 PM Billy Jones
+03/12 02:00:00 PM Billy Jones
+03/12 08:00:00 AM Billy Jones
+03/12 05:00:00 AM Billy Jones
+03/15 02:00:00 PM Billy Jones
+03/15 08:00:00 AM Billy Jones
+03/15 05:00:00 AM Billy Jones
+
+Billy Jones was the dealer for all 13 of the major losses. 

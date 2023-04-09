@@ -1,0 +1,36 @@
+
+The dealer is Billy Jones, the player is Mylie Schmidt. Bellow is the evidence. 
+
+Dates/Times of all the losses and name of player that was present for every loss. 
+03/10 02:00:00 PM
+03/10 05:00:00 AM
+03/10 08:00:00 AM
+03/10 08:00:00 PM
+03/10 11:00:00 PM
+03/12 02:00:00 PM
+03/12 05:00:00 AM
+03/12 08:00:00 AM
+03/12 08:00:00 PM
+03/12 11:00:00 PM
+03/15 02:00:00 PM
+03/15 05:00:00 AM
+03/15 08:00:00 AM
+
+Mylie Schmidt was playing on every single one of the losses (13 total)
+
+Date/Times off all the losses and the name of the roulette dealer at those times:
+03/10 02:00:00 PM Billy Jones
+03/10 08:00:00 AM Billy Jones
+03/10 11:00:00 PM Billy Jones
+03/10 08:00:00 PM Billy Jones
+03/10 05:00:00 AM Billy Jones
+03/12 11:00:00 PM Billy Jones
+03/12 08:00:00 PM Billy Jones
+03/12 02:00:00 PM Billy Jones
+03/12 08:00:00 AM Billy Jones
+03/12 05:00:00 AM Billy Jones
+03/15 02:00:00 PM Billy Jones
+03/15 08:00:00 AM Billy Jones
+03/15 05:00:00 AM Billy Jones
+
+Billy Jones was the dealer for all 13 of the major losses. 
